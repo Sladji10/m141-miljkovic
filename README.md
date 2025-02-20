@@ -12,8 +12,8 @@ DB-Server in Betrieb nehmen
 ### Ordnerstruktur
 
 #### 1.Tag - 7.Tag
-  - [1.Tag](1._/1._Tag.md)
-  - [2.Tag](N1/Netzwerk_mit_acht_gleich_grossen_Subnetzen_im_letzten_Oktett.md)
+  - [1.Tag](1._Tag_7._Tag/1._Tag.md)
+  - [2.Tag](1._Tag_7._Tag/Netzwerk_mit_acht_gleich_grossen_Subnetzen_im_letzten_Oktett.md)
   - [3.Tag](N1/Netzwerk_mit_vier_gleich_grossen_Subnetzen_im_letzten_Oktett.md)
   - [4.Tag](N1/Netzwerk_mit_zwei_gleich_grosse_Subnetzen_im_letzten_Oktett.md)
   - [5.Tag](N1/Netzwerk_mit_zwei_gleich_grosse_Subnetzen_im_letzten_Oktett.md)
