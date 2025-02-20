@@ -21,7 +21,12 @@ DB-Server in Betrieb nehmen
   - [7.Tag](1._Tag_7._Tag/7._Tag.md)
 
 ### Checkpoints
-  - [1. Checkpoints](Checkpoints/1. Checkpoint.md)
-
+  - [1. Checkpoint](Checkpoints/1._Checkpoint.md)
+  - [2. Checkpoint](Checkpoints/1._Checkpoint.md)
+  - [3. Checkpoint](Checkpoints/1._Checkpoint.md)
+  - [4. Checkpoint](Checkpoints/1._Checkpoint.md)
+  - [5. Checkpoint](Checkpoints/1._Checkpoint.md)
+  - [6. Checkpoint](Checkpoints/1._Checkpoint.md)
+  - [7. Checkpoint](Checkpoints/1._Checkpoint.md)
 
 ### Fazit zum Modul
