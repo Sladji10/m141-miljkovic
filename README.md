@@ -11,10 +11,13 @@ DB-Server in Betrieb nehmen
 
 ### Ordnerstruktur
 
-#### Checkpoints
-  - [Netzwerk mit zwei gleich grosse Subnetzen im letzten Oktett](N1/Netzwerk_mit_zwei_gleich_grosse_Subnetzen_im_letzten_Oktett.md)
-  - [Netzwerk mit acht gleich grossen Subnetzen im letzten Oktett](N1/Netzwerk_mit_acht_gleich_grossen_Subnetzen_im_letzten_Oktett.md)
-  - [Netzwerk mit vier gleich grossen Subnetzen im letzten Oktett](N1/Netzwerk_mit_vier_gleich_grossen_Subnetzen_im_letzten_Oktett.md)
-  - [Fehlersuche im Netzwerk (mit Filius)](N1/Fehlersuche_im_Netzwerk.md)
+#### Tag 1 - 7
+  - [1.Tag](N1/Netzwerk_mit_zwei_gleich_grosse_Subnetzen_im_letzten_Oktett.md)
+  - [2.Tag](N1/Netzwerk_mit_acht_gleich_grossen_Subnetzen_im_letzten_Oktett.md)
+  - [3.Tag](N1/Netzwerk_mit_vier_gleich_grossen_Subnetzen_im_letzten_Oktett.md)
+  - [4.Tag](N1/Netzwerk_mit_zwei_gleich_grosse_Subnetzen_im_letzten_Oktett.md)
+  - [5.Tag](N1/Netzwerk_mit_zwei_gleich_grosse_Subnetzen_im_letzten_Oktett.md)
+  - [6.Tag](N1/Netzwerk_mit_zwei_gleich_grosse_Subnetzen_im_letzten_Oktett.md)
+  - [7.Tag](N1/Netzwerk_mit_zwei_gleich_grosse_Subnetzen_im_letzten_Oktett.md)
 
 ### Fazit zum Modul
