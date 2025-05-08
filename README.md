@@ -30,3 +30,5 @@ DB-Server in Betrieb nehmen
   - [7. Checkpoint](Checkpoints/1._Checkpoint.md)
 
 ### Fazit zum Modul
+
+Dieses Modul hat mir sehr gefallen, vorallem beim Projekt, da wir sehr viel alleine arbeiten konnten. Es war nicht ganz einfach, jedoch konnten wir mit viel recherchieren zu einer Lösung kommen und hoffen, dass wir es gut gemacht haben. Die Aufträge von Tag 1 - 7 waren auch recht viel Stoff zum lernen, jedoch war es immer abwechselnd und nicht immer nur Theorie. 
