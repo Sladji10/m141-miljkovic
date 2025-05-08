@@ -155,7 +155,14 @@ Dies dan später auf die Instanz laden mit SCP oder SFTP z.B.
 ## 3.2 MariaDB installieren
 1. `sudo apt update`
 2. `sudo apt upgrade`
-3. `sudo apt install maria-db`
+3. `sudo apt install mariadb-server`
+4. `sudo systemctl start mariadb`
+5. `sudo systemctl enable mariadb`
+6. Config bearbeiten:
+`cd /etc/mysql/mariadb.conf.d` -> `sudo nano 50-server.cnf`
+Dort IP auf *0.0.0.0* setzen
+7. Config aktualisieren:
+`sudo systemctl restart mariadb`
 
 # 4. Automatisierte Migration
 ## 4.1 Berechtigungen
@@ -275,9 +282,10 @@ Erwartetes Ergebnis: Der Benutzer sollte in der Lage sein, Daten aus tbl_benutze
 ![image](https://github.com/user-attachments/assets/6f6a3fec-50e4-423f-8b70-94b39d12f570)
 
 ## 5.3 Berechtigungen anzeigen
-
+**Output:**
 
 ![Screenshot 2025-05-08 110304](https://github.com/user-attachments/assets/e046fcbc-5d67-4df1-a2b8-994b401b6b9c)
 
 
 
+![Screenshot 2025-05-08 110532](https://github.com/user-attachments/assets/3d856240-cc0e-4049-828a-41cd9f70de47)
