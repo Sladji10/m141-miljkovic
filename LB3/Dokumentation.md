@@ -82,6 +82,9 @@ for filename in os.listdir(input_dir):
         print(f"{filename} bereinigt.")
 ```
 
+![image](https://github.com/user-attachments/assets/8f3cb304-40d4-418d-aa0b-f06c2375a51f)
+
+
 ## 2.4 Daten Import
 ### 2.4.1 Tabellenstruktur (DDL)
 Iport Datei von Herr Kellenberger:
@@ -259,6 +262,7 @@ Erwartetes Ergebnis: Der Benutzer sollte in der Lage sein, Daten aus tbl_benutze
 
 **Output:**
 
+![Screenshot 2025-05-08 110637](https://github.com/user-attachments/assets/4f08f2ff-0298-4716-ba13-acde8179ecc2)
 
 
 ## 5.2 Überprüfung der Berechtigungen, da alles gehen solte für *manager*
@@ -270,7 +274,10 @@ Erwartetes Ergebnis: Der Benutzer sollte in der Lage sein, Daten aus tbl_benutze
 
 ![image](https://github.com/user-attachments/assets/6f6a3fec-50e4-423f-8b70-94b39d12f570)
 
+## 5.3 Berechtigungen anzeigen
 
+
+![Screenshot 2025-05-08 110304](https://github.com/user-attachments/assets/e046fcbc-5d67-4df1-a2b8-994b401b6b9c)
 
 
 
